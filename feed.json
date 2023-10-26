@@ -7,10 +7,202 @@
 	"items": [
 		
 			{
+				"id": "http://ohcoder.micro.blog/2023/10/27/ios-apple-music.html",
+				
+				"content_html": "<p>更新了 iOS 17.1 系统。</p>\n<p>体验了 Apple Music 变化。\n尝试了一下 standby。</p>\n<p>没什么太多想说的，中规中矩。</p>\n<p>倒是借着 Apple Music 的更新，听了几首音乐。</p>\n<p>实话说，我还是更偏爱纯音乐一些，纯国风或西洋乐器都可以。</p>\n<p>工作上开始忙了，所以接下来天马行空的想法会少一些。</p>\n<p>还是会抽时间关注 IndieWeb 相关的一些新闻。</p>\n<p>同时还是会思考哪些产品可以做。</p>\n",
+				"content_text": "更新了 iOS 17.1 系统。\n\n体验了 Apple Music 变化。\n尝试了一下 standby。\n\n没什么太多想说的，中规中矩。\n\n倒是借着 Apple Music 的更新，听了几首音乐。\n\n实话说，我还是更偏爱纯音乐一些，纯国风或西洋乐器都可以。\n\n工作上开始忙了，所以接下来天马行空的想法会少一些。\n\n还是会抽时间关注 IndieWeb 相关的一些新闻。\n\n同时还是会思考哪些产品可以做。\n",
+				"date_published": "2023-10-27T00:06:06+08:00",
+				"url": "https://micro.ohcoder.com/2023/10/27/ios-apple-music.html"
+			},
+			{
+				"id": "http://ohcoder.micro.blog/2023/10/26/mastodon-fediverse-fediverse.html",
+				
+				"content_html": "<p>我发现英语圈子里，大部分人对于 Mastodon 和 Fediverse 概念的区分也是混乱的，只有一些大号才会在描述上刻意区分。</p>\n<p>这其实导致一些对 Fediverse 概念不了解的人，误以为 Mastodon 只不过是另一个 X 或其他中心化社交平台。我以为这是一个让新人误会的一个重要因素。</p>\n",
+				"content_text": "我发现英语圈子里，大部分人对于 Mastodon 和 Fediverse 概念的区分也是混乱的，只有一些大号才会在描述上刻意区分。\n\n这其实导致一些对 Fediverse 概念不了解的人，误以为 Mastodon 只不过是另一个 X 或其他中心化社交平台。我以为这是一个让新人误会的一个重要因素。\n",
+				"date_published": "2023-10-26T08:44:02+08:00",
+				"url": "https://micro.ohcoder.com/2023/10/26/mastodon-fediverse-fediverse.html"
+			},
+			{
+				"id": "http://ohcoder.micro.blog/2023/10/26/fediverse-indieweb-micro.html",
+				
+				"content_html": "<p>最近在 Fediverse 网络上读了很多国外的文章。</p>\n<p>关于 IndieWeb，以及一些国外的新闻等等。</p>\n<p>万万没想到，自从用了 micro blog，不但重新激活了我写文字的欲望，还重新激活了Mastodon 账户和尘封将近十年的 Tumblr 社交网络（甚至在上边发现了我十年前为了练习英文，而用英文写的日记，简直不敢相信，我已经完全忘了这段经历)。</p>\n<p>更加令人意外的是，让我了解到什么是 IndieWeb，甚至让我对它有了一些憧憬。</p>\n<p>人活着，就应该对一些在乎的事物有一些理想。</p>\n<p>回想来，这就像是发现一根线头儿，一步步拉出来很多有趣的东西。虽然是一段平淡无奇的生活日常，但却很美妙。</p>\n",
+				"content_text": "最近在 Fediverse 网络上读了很多国外的文章。\n\n关于 IndieWeb，以及一些国外的新闻等等。\n\n万万没想到，自从用了 micro blog，不但重新激活了我写文字的欲望，还重新激活了Mastodon 账户和尘封将近十年的 Tumblr 社交网络（甚至在上边发现了我十年前为了练习英文，而用英文写的日记，简直不敢相信，我已经完全忘了这段经历)。\n\n更加令人意外的是，让我了解到什么是 IndieWeb，甚至让我对它有了一些憧憬。\n\n人活着，就应该对一些在乎的事物有一些理想。\n\n回想来，这就像是发现一根线头儿，一步步拉出来很多有趣的东西。虽然是一段平淡无奇的生活日常，但却很美妙。\n",
+				"date_published": "2023-10-26T00:17:23+08:00",
+				"url": "https://micro.ohcoder.com/2023/10/26/fediverse-indieweb-micro.html",
+				"tags": ["Whisper"]
+			},
+			{
+				"id": "http://ohcoder.micro.blog/2023/10/25/233313.html",
+				
+				"content_html": "<p>前几天不忙，利用上班时间学了很多东西，心里很充实。</p>\n<p>接下来又开始忙了，想学的东西又没时间学了，焦虑和空虚的感觉又回来了🥲</p>\n",
+				"content_text": "前几天不忙，利用上班时间学了很多东西，心里很充实。\n\n接下来又开始忙了，想学的东西又没时间学了，焦虑和空虚的感觉又回来了🥲\n",
+				"date_published": "2023-10-25T23:33:13+08:00",
+				"url": "https://micro.ohcoder.com/2023/10/25/233313.html",
+				"tags": ["Whisper"]
+			},
+			{
+				"id": "http://ohcoder.micro.blog/2023/10/25/232438.html",
+				
+				"content_html": "<p>「欲速则不达」这个道理很多人都懂。</p>\n<p>但确实希望每天都够多学一些，多思考一些，距离目标更近一些。</p>\n<p>但实践下来，好难啊……</p>\n<p>计划得越充实，如果没完成挫败感就越强烈。如果完成，也仅仅是 60 分的感觉，成就感只是及格。</p>\n<p>如果计划的不够，虽然轻松完成了，但抬头一看，距离目标还有好远，焦虑由心而生。</p>\n<p>两头为难。</p>\n",
+				"content_text": "「欲速则不达」这个道理很多人都懂。\n\n但确实希望每天都够多学一些，多思考一些，距离目标更近一些。\n\n但实践下来，好难啊……\n\n计划得越充实，如果没完成挫败感就越强烈。如果完成，也仅仅是 60 分的感觉，成就感只是及格。\n\n如果计划的不够，虽然轻松完成了，但抬头一看，距离目标还有好远，焦虑由心而生。\n\n两头为难。\n",
+				"date_published": "2023-10-25T23:24:38+08:00",
+				"url": "https://micro.ohcoder.com/2023/10/25/232438.html",
+				"tags": ["Whisper"]
+			},
+			{
+				"id": "http://ohcoder.micro.blog/2023/10/25/boox-note-x.html",
+				
+				"content_html": "<p>今天终于下单了 Boox Note X3。</p>\n<p>淘宝上先付了定金，下周二付尾款。尾款付完了48 小时内发货。</p>\n<p>不管怎么说，最多下周末我就可以拿到机器了。</p>\n<p>又向阅读无纸化迈进了一步。</p>\n",
+				"content_text": "今天终于下单了 Boox Note X3。\n\n淘宝上先付了定金，下周二付尾款。尾款付完了48 小时内发货。\n\n不管怎么说，最多下周末我就可以拿到机器了。\n\n又向阅读无纸化迈进了一步。\n",
+				"date_published": "2023-10-25T23:13:31+08:00",
+				"url": "https://micro.ohcoder.com/2023/10/25/boox-note-x.html"
+			},
+			{
+				"id": "http://ohcoder.micro.blog/2023/10/25/indieweb-indieweb.html",
+				
+				"content_html": "<p>粗想来，IndieWeb 如果想成为主流，目前情况，或许需要三个因素：</p>\n<ul>\n<li>为达成IndieWeb 所需要的基础设施。</li>\n<li>等待商业公司犯错误，需要时间。</li>\n<li>直接出现颠覆现有商业模式的技术，并有大量产品涌现。</li>\n</ul>\n<p>除此之外，要想达成目标，还挺难。</p>\n",
+				"content_text": "粗想来，IndieWeb 如果想成为主流，目前情况，或许需要三个因素：\n\n* 为达成IndieWeb 所需要的基础设施。\n* 等待商业公司犯错误，需要时间。\n* 直接出现颠覆现有商业模式的技术，并有大量产品涌现。\n\n除此之外，要想达成目标，还挺难。\n",
+				"date_published": "2023-10-25T12:33:55+08:00",
+				"url": "https://micro.ohcoder.com/2023/10/25/indieweb-indieweb.html",
+				"tags": ["Whisper"]
+			},
+			{
+				"id": "http://ohcoder.micro.blog/2023/10/25/114017.html",
+				
+				"content_html": "<p>江湖上有句流行的传言—“过着刀尖上舔血的日子”。</p>\n<p>现实生活中有句流行的传言—“过着吃了上顿没下顿的日子”。</p>\n",
+				"content_text": "江湖上有句流行的传言—“过着刀尖上舔血的日子”。\n\n现实生活中有句流行的传言—“过着吃了上顿没下顿的日子”。\n\n",
+				"date_published": "2023-10-25T11:40:17+08:00",
+				"url": "https://micro.ohcoder.com/2023/10/25/114017.html",
+				"tags": ["Whisper"]
+			},
+			{
+				"id": "http://ohcoder.micro.blog/2023/10/25/texts-beeper-app.html",
+				
+				"content_html": "<p>刚刚知道 <a href=\"https://texts.com\">Texts</a> 和 <a href=\"https://www.beeper.com\">Beeper</a> 这两款app……</p>\n<p>两款聊天聚合类 App，其中第一款刚刚被Automattic，也就是拥有 WordPress 的<a href=\"https://www.theverge.com/2023/10/24/23928685/automattic-texts-acquisition-universal-messaging\">那家公司买了</a>。</p>\n<p>其中 IndieWeb 面临的信息聚合的问题，或许真的有人已经在做了……</p>\n<p>这个圈子玩得好啊(<em>°▽°</em>)……</p>\n",
+				"content_text": "刚刚知道 [Texts](https://texts.com) 和 [Beeper](https://www.beeper.com) 这两款app……\n\n两款聊天聚合类 App，其中第一款刚刚被Automattic，也就是拥有 WordPress 的[那家公司买了](https://www.theverge.com/2023/10/24/23928685/automattic-texts-acquisition-universal-messaging)。\n\n其中 IndieWeb 面临的信息聚合的问题，或许真的有人已经在做了……\n\n这个圈子玩得好啊(*°▽°*)……\n",
+				"date_published": "2023-10-25T00:48:02+08:00",
+				"url": "https://micro.ohcoder.com/2023/10/25/texts-beeper-app.html"
+			},
+			{
+				"id": "http://ohcoder.micro.blog/2023/10/25/indieweb-indieweb-indieweb.html",
+				
+				"content_html": "<p>原来 IndieWeb 是一个很大的话题，但却是一个很有意思的话题。</p>\n<p>随着最近两年社交网络的变化，IndieWeb 又重新被提出来，想象一下，如果整个互联网的发展方向按照IndieWeb 的理念发展的话，或许会出现百花齐放的局面。</p>\n<p>但就现在互联网的状态，挺难的。</p>\n<p>据我现有的了解程度而言，我憧憬有那么一天的到来。</p>\n<p>这需要一款产品，打破现在的互联网格局。</p>\n<p>总之，这是一个有趣的话题，我会长期关注这个话题，也会花时间了解相关 W3C 制定的一些协议。</p>\n<p>或许未来可以在这个方向上添砖加瓦。</p>\n",
+				"content_text": "原来 IndieWeb 是一个很大的话题，但却是一个很有意思的话题。\n\n随着最近两年社交网络的变化，IndieWeb 又重新被提出来，想象一下，如果整个互联网的发展方向按照IndieWeb 的理念发展的话，或许会出现百花齐放的局面。\n\n但就现在互联网的状态，挺难的。\n\n据我现有的了解程度而言，我憧憬有那么一天的到来。\n\n这需要一款产品，打破现在的互联网格局。\n\n总之，这是一个有趣的话题，我会长期关注这个话题，也会花时间了解相关 W3C 制定的一些协议。\n\n或许未来可以在这个方向上添砖加瓦。\n",
+				"date_published": "2023-10-25T00:29:03+08:00",
+				"url": "https://micro.ohcoder.com/2023/10/25/indieweb-indieweb-indieweb.html",
+				"tags": ["Whisper"]
+			},
+			{
+				"id": "http://ohcoder.micro.blog/2023/10/24/indieweb-indieauth-micropub.html",
+				
+				"content_html": "<p>下午断断续续了解了一些 IndieWeb 相关的资料。</p>\n<p>现在不仅有了 IndieAuth 标准用来打破用户名密码的限制，还建立了 Micropub 标准来标准化数据的增删改查。社交层面，现在有 ActivityPub 协议。</p>\n<p>提供服务的产品仅仅通过产品的价值获得商业收益，自身不拥有数据，甚至不拥有用户信息，这些用户随时都可以拿走，用户为产品付费的唯一理由，就是产品带来的价值。</p>\n<p>这个社区的核心价值是，用户数据应该属于用户，用户可以自由且随意处理自己的数据。</p>\n<p>我现在理解 micro blog 自动往 GitHub 上备份数据的「动机」了……</p>\n",
+				"content_text": "下午断断续续了解了一些 IndieWeb 相关的资料。\n\n现在不仅有了 IndieAuth 标准用来打破用户名密码的限制，还建立了 Micropub 标准来标准化数据的增删改查。社交层面，现在有 ActivityPub 协议。\n\n提供服务的产品仅仅通过产品的价值获得商业收益，自身不拥有数据，甚至不拥有用户信息，这些用户随时都可以拿走，用户为产品付费的唯一理由，就是产品带来的价值。\n\n这个社区的核心价值是，用户数据应该属于用户，用户可以自由且随意处理自己的数据。\n\n我现在理解 micro blog 自动往 GitHub 上备份数据的「动机」了……\n",
+				"date_published": "2023-10-24T16:58:16+08:00",
+				"url": "https://micro.ohcoder.com/2023/10/24/indieweb-indieauth-micropub.html",
+				"tags": ["Whisper"]
+			},
+			{
+				"id": "http://ohcoder.micro.blog/2023/10/24/indieweb-web-web.html",
+				
+				"content_html": "<p>今天上午无意间发现了一个名叫 <a href=\"https://indieweb.org\">IndieWeb</a> 的社群。</p>\n<p>初步了解了一下，意思是一群反对“商业web”中心化的人聚在一起，构建一个更加自由的 web 环境。为了实现这一目标，社群里做了很多去中心化的 web 产品。</p>\n<p>这个话题我从来没有思考过，因为从我接触互联网开始，基本上就是在被商业公司所引领，没有反思的意识，也没有感受过早年间 web 的那种自由。</p>\n<p>虽然从早年间互联网发展的书籍里，以及前人们那里听过那个年代。但还真没有亲眼见过这类人，这个社群给我的冲击力还是挺大的，也许以后我也会为这个社区做点儿什么，因为我也向往自由。</p>\n<p>这让我想到，或许只有互联网的发源地，才会认真思考互联网应该是什么样子。</p>\n",
+				"content_text": "今天上午无意间发现了一个名叫 [IndieWeb](https://indieweb.org) 的社群。\n\n初步了解了一下，意思是一群反对“商业web”中心化的人聚在一起，构建一个更加自由的 web 环境。为了实现这一目标，社群里做了很多去中心化的 web 产品。\n\n这个话题我从来没有思考过，因为从我接触互联网开始，基本上就是在被商业公司所引领，没有反思的意识，也没有感受过早年间 web 的那种自由。\n\n虽然从早年间互联网发展的书籍里，以及前人们那里听过那个年代。但还真没有亲眼见过这类人，这个社群给我的冲击力还是挺大的，也许以后我也会为这个社区做点儿什么，因为我也向往自由。\n\n这让我想到，或许只有互联网的发源地，才会认真思考互联网应该是什么样子。\n",
+				"date_published": "2023-10-24T12:13:19+08:00",
+				"url": "https://micro.ohcoder.com/2023/10/24/indieweb-web-web.html"
+			},
+			{
+				"id": "http://ohcoder.micro.blog/2023/10/23/swiftui-state-binding.html",
+				
+				"content_html": "<p>SwiftUI 中的状态管理：</p>\n<ul>\n<li>@State 和 @Binding 可以在组件层面做内部状态管理。</li>\n<li>@Obserable 和 @ObservedObject 可以在「相邻」的 View 之间传递状态。</li>\n<li>@EnvirmentObject 则是用来在夸多个 View 层级中进行状态的管理。</li>\n</ul>\n<p>就像<a href=\"/2023/10/19/swiftui-virtual-dom.html\">之前说的</a>，SwiftUI 的状态管理很多是在模拟前端界的单向数据流状态管理（Elm 或 Redux）。</p>\n",
+				"content_text": "SwiftUI 中的状态管理：\n\n* @State 和 @Binding 可以在组件层面做内部状态管理。\n* @Obserable 和 @ObservedObject 可以在「相邻」的 View 之间传递状态。\n* @EnvirmentObject 则是用来在夸多个 View 层级中进行状态的管理。\n\n就像[之前说的](/2023/10/19/swiftui-virtual-dom.html)，SwiftUI 的状态管理很多是在模拟前端界的单向数据流状态管理（Elm 或 Redux）。\n",
+				"date_published": "2023-10-23T17:14:26+08:00",
+				"url": "https://micro.ohcoder.com/2023/10/23/swiftui-state-binding.html",
+				"tags": ["Apple Development"]
+			},
+			{
+				"id": "http://ohcoder.micro.blog/2023/10/23/app.html",
+				
+				"content_html": "<p>最近发现「听书」是一个不错的阅读方式。</p>\n<p>现在一些阅读 App 上，都有音频阅读的功能。有的还可以扮演不同的人声。\n具体来说，就是边听阅读的声音，边仔细阅读，这样带来三个好处。</p>\n<ol>\n<li>可以进一步对阅读内容加深印象。</li>\n<li>对于需要深度阅读的书籍，可以保证阅读速度，不快也不慢。有效提升注意力，边阅读边思考。</li>\n<li>对于消遣类书籍，可以直接听内容就够了，彻底解放了双眼，可以边做其他事情边阅读（例如：开车）。</li>\n</ol>\n<p>因为我很少读消遣类的书籍，所以音频+双眼阅读的方式更有助于我保证阅读效果，加深理解。</p>\n",
+				"content_text": "最近发现「听书」是一个不错的阅读方式。\n\n现在一些阅读 App 上，都有音频阅读的功能。有的还可以扮演不同的人声。\n具体来说，就是边听阅读的声音，边仔细阅读，这样带来三个好处。\n\n1. 可以进一步对阅读内容加深印象。\n2. 对于需要深度阅读的书籍，可以保证阅读速度，不快也不慢。有效提升注意力，边阅读边思考。\n3. 对于消遣类书籍，可以直接听内容就够了，彻底解放了双眼，可以边做其他事情边阅读（例如：开车）。\n\n因为我很少读消遣类的书籍，所以音频+双眼阅读的方式更有助于我保证阅读效果，加深理解。\n",
+				"date_published": "2023-10-23T14:26:07+08:00",
+				"url": "https://micro.ohcoder.com/2023/10/23/app.html",
+				"tags": ["Whisper"]
+			},
+			{
+				"id": "http://ohcoder.micro.blog/2023/10/23/123908.html",
+				
+				"content_html": "<p>发现我学习新知识，总是喜欢先从系统层面搞清楚知识结构，然后再深入细节，也就是说先从基础学起，然后慢慢学到我想知道的那个知识点。</p>\n<p>这样学东西有两个好处：</p>\n<ol>\n<li>一个是学完之后不但知其然，而且能知其所以然。</li>\n<li>学完我想知道的知识点以后，如果再次碰到这个领域的其他知识，虽然我可能当时不懂，但我知道怎么去进一步学习，然后搞懂。</li>\n</ol>\n<p>但也有不好的地方:</p>\n<ol>\n<li>学习一个看似「简单」的知识点花费的时间成本太高。如果以后再也遇不到这个领域的知识，短期来看，很多时间就「浪费」了。</li>\n<li>摸清楚一个领域的知识脉络，有时候学习门槛非常之高，特别是身边没有人可以问。结果就是，一个「简单」的问题，很有可能要花费很长时间才能搞清楚。</li>\n</ol>\n",
+				"content_text": "发现我学习新知识，总是喜欢先从系统层面搞清楚知识结构，然后再深入细节，也就是说先从基础学起，然后慢慢学到我想知道的那个知识点。\n\n这样学东西有两个好处：\n\n1. 一个是学完之后不但知其然，而且能知其所以然。\n2. 学完我想知道的知识点以后，如果再次碰到这个领域的其他知识，虽然我可能当时不懂，但我知道怎么去进一步学习，然后搞懂。\n\n但也有不好的地方:\n\n1. 学习一个看似「简单」的知识点花费的时间成本太高。如果以后再也遇不到这个领域的知识，短期来看，很多时间就「浪费」了。\n2. 摸清楚一个领域的知识脉络，有时候学习门槛非常之高，特别是身边没有人可以问。结果就是，一个「简单」的问题，很有可能要花费很长时间才能搞清楚。\n",
+				"date_published": "2023-10-23T12:39:08+08:00",
+				"url": "https://micro.ohcoder.com/2023/10/23/123908.html",
+				"tags": ["Whisper"]
+			},
+			{
+				"id": "http://ohcoder.micro.blog/2023/10/22/blog-o-app.html",
+				
+				"content_html": "<p>从这周码字的数量来看，每天写个一二三四百字，一周下来比写一篇长的 blog 也不少。</p>\n<p>最重要的是不用一次写一两千字，把自己固定在座位前使劲儿回忆这一周都干了啥。</p>\n<p>过去这种感觉我感受了十年，现在变成每次写一二三四百字，感受非常开心愉悦。最最重要的是没有心理压力，最最最重要的是可以准确记录当时的感受，这个产品简直就是对我量身定做的٩(๑^o^๑)۶</p>\n<p>以后如果有机会，我要为这款产品好好开发一款 App！</p>\n",
+				"content_text": "从这周码字的数量来看，每天写个一二三四百字，一周下来比写一篇长的 blog 也不少。\n\n最重要的是不用一次写一两千字，把自己固定在座位前使劲儿回忆这一周都干了啥。\n\n过去这种感觉我感受了十年，现在变成每次写一二三四百字，感受非常开心愉悦。最最重要的是没有心理压力，最最最重要的是可以准确记录当时的感受，这个产品简直就是对我量身定做的٩(๑^o^๑)۶\n\n以后如果有机会，我要为这款产品好好开发一款 App！\n",
+				"date_published": "2023-10-22T23:06:50+08:00",
+				"url": "https://micro.ohcoder.com/2023/10/22/blog-o-app.html"
+			},
+			{
+				"id": "http://ohcoder.micro.blog/2023/10/22/225546.html",
+				
+				"content_html": "<p>说来奇怪，自从上周开始码字，晚上回家游戏都想不起来玩了。</p>\n<p>平时总想把脑袋里胡思乱想的东西记下来，然后继续思考下一个问题。</p>\n<p>一款好的产品能有这么大的魔力吗？我是真的第一次有这种感觉。</p>\n<p>真是让人异常兴奋！😱ε=ε=(ﾉ≧∇≦)ﾉ</p>\n",
+				"content_text": "说来奇怪，自从上周开始码字，晚上回家游戏都想不起来玩了。\n\n平时总想把脑袋里胡思乱想的东西记下来，然后继续思考下一个问题。\n\n一款好的产品能有这么大的魔力吗？我是真的第一次有这种感觉。\n\n真是让人异常兴奋！😱ε=ε=(ﾉ≧∇≦)ﾉ\n",
+				"date_published": "2023-10-22T22:55:46+08:00",
+				"url": "https://micro.ohcoder.com/2023/10/22/225546.html",
+				"tags": ["Whisper"]
+			},
+			{
+				"id": "http://ohcoder.micro.blog/2023/10/22/wwdcwwdc-widgets-swiftui.html",
+				
+				"content_html": "<p>整理了 WWDC2019～WWDC2023 年，期间关于 Widgets 和 SwiftUI 开发相关的视频。</p>\n<p>接下来继续深入学习 SwiftUI 的相关技术。</p>\n",
+				"content_text": "整理了 WWDC2019～WWDC2023 年，期间关于 Widgets 和 SwiftUI 开发相关的视频。\r\n\r\n接下来继续深入学习 SwiftUI 的相关技术。\n",
+				"date_published": "2023-10-22T18:17:10+08:00",
+				"url": "https://micro.ohcoder.com/2023/10/22/wwdcwwdc-widgets-swiftui.html",
+				"tags": ["Whisper","Apple Development"]
+			},
+			{
+				"id": "http://ohcoder.micro.blog/2023/10/22/170106.html",
+				
+				"content_html": "<p>众所周知，医学方面的书，几乎都是大部头。</p>\n<p>今天在「微信读书」和「得到」上搜了几本基础的医学教材，发现都没有电子版。</p>\n<p>这让租房住，不想买纸版，又想学习一下医学基础知识的同学，感到非常的难受。</p>\n",
+				"content_text": "众所周知，医学方面的书，几乎都是大部头。\r\n\r\n今天在「微信读书」和「得到」上搜了几本基础的医学教材，发现都没有电子版。\r\n\r\n这让租房住，不想买纸版，又想学习一下医学基础知识的同学，感到非常的难受。\n",
+				"date_published": "2023-10-22T17:01:06+08:00",
+				"url": "https://micro.ohcoder.com/2023/10/22/170106.html",
+				"tags": ["Whisper"]
+			},
+			{
+				"id": "http://ohcoder.micro.blog/2023/10/22/165251.html",
+				
+				"content_html": "<p>花了两个周末的时间，读完了《<a href=\"https://book.douban.com/subject/27665420/\">美国的故事（共 7 册）</a>》中的第一册——殖民之地。</p>\n<p>为什么突然想了解美国？</p>\n<p>可能最大的动力，是因为这两年国内生活越来越艰难，不得不需要进一步关注所在的生活环境。</p>\n<p>又因为国内的生活环境跟国外息息相关，所以关注点顺理成章地延伸到国际形势的变化。</p>\n<blockquote>\n<p>要想尽可能客观地判断一项事物，首先要对其有足够的了解，然后才有可能能够结合多方信息做出自己的判断。</p>\n</blockquote>\n<p>简单说，这应该就是我想了解一些历史的主要动力。</p>\n<p>虽说生在洪流，个人的命运微不足道，也无力改变，只求尽可能做到护自己周全。</p>\n",
+				"content_text": "花了两个周末的时间，读完了《[美国的故事（共 7 册）](https://book.douban.com/subject/27665420/)》中的第一册——殖民之地。\n\n为什么突然想了解美国？\n\n可能最大的动力，是因为这两年国内生活越来越艰难，不得不需要进一步关注所在的生活环境。\n\n又因为国内的生活环境跟国外息息相关，所以关注点顺理成章地延伸到国际形势的变化。\n\n> 要想尽可能客观地判断一项事物，首先要对其有足够的了解，然后才有可能能够结合多方信息做出自己的判断。\n\n简单说，这应该就是我想了解一些历史的主要动力。\n\n虽说生在洪流，个人的命运微不足道，也无力改变，只求尽可能做到护自己周全。\n\n",
+				"date_published": "2023-10-22T16:52:51+08:00",
+				"url": "https://micro.ohcoder.com/2023/10/22/165251.html",
+				"tags": ["Whisper"]
+			},
+			{
+				"id": "http://ohcoder.micro.blog/2023/10/22/wwdcwwdc-ui-hig.html",
+				
+				"content_html": "<p>今年七月份整理了 WWDC2017～WWDC2023 期间所有涉及 UI 设计相关的视频，总共四十七个视频。</p>\n<p>昨天终于看完了，耗时三个多月。初步迈出了转型设计师的第一步……</p>\n<p>接下来，除了开始看 <a href=\"https://developer.apple.com/cn/design/human-interface-guidelines\">HIG</a> 文档以外，准备整理一下 WWDC2019～WWDC2023 年以来，关于 SwiftUI 相关的视频，整体看一遍。</p>\n",
+				"content_text": "今年七月份整理了 WWDC2017～WWDC2023 期间所有涉及 UI 设计相关的视频，总共四十七个视频。\r\n\r\n昨天终于看完了，耗时三个多月。初步迈出了转型设计师的第一步……\r\n\r\n接下来，除了开始看 [HIG](https://developer.apple.com/cn/design/human-interface-guidelines) 文档以外，准备整理一下 WWDC2019～WWDC2023 年以来，关于 SwiftUI 相关的视频，整体看一遍。\n",
+				"date_published": "2023-10-22T13:11:11+08:00",
+				"url": "https://micro.ohcoder.com/2023/10/22/wwdcwwdc-ui-hig.html",
+				"tags": ["Design","Apple Development"]
+			},
+			{
+				"id": "http://ohcoder.micro.blog/2023/10/22/hugo-github-micro.html",
+				
+				"content_html": "<p>啊！终于调整了一下主题，把目前能调整的都调整了一下。</p>\n<p>好在之前接触过 Hugo，大概知道怎么改主题。</p>\n<p>虽然有些还是改不了，目前也只能这样了……</p>\n<p>安装了一些插件，把已有的插件通通看了一遍，装了一些目前用得到的。</p>\n<p>过去一周发布的数据，昨天晚上我看也自动同步到了 GitHub 上，正常备份频率是七天一同步。</p>\n<p>太喜欢 micro blog 这个产品了！</p>\n",
+				"content_text": "啊！终于调整了一下主题，把目前能调整的都调整了一下。\r\n\r\n好在之前接触过 Hugo，大概知道怎么改主题。\r\n\r\n虽然有些还是改不了，目前也只能这样了……\r\n\r\n安装了一些插件，把已有的插件通通看了一遍，装了一些目前用得到的。\r\n\r\n过去一周发布的数据，昨天晚上我看也自动同步到了 GitHub 上，正常备份频率是七天一同步。\r\n\r\n太喜欢 micro blog 这个产品了！\n",
+				"date_published": "2023-10-22T13:01:21+08:00",
+				"url": "https://micro.ohcoder.com/2023/10/22/hugo-github-micro.html",
+				"tags": ["Whisper"]
+			},
+			{
 				"id": "http://ohcoder.micro.blog/2023/10/21/high.html",
 				
-				"content_html": "<p>这几天我突然对自己有了进一步的认识。</p>\n<p>我是一个自己跟自己聊天，都能把自己聊 high 的人。</p>\n",
-				"content_text": "这几天我突然对自己有了进一步的认识。\n\n我是一个自己跟自己聊天，都能把自己聊 high 的人。\n\n",
+				"content_html": "<p>这几天我突然对自己有了进一步的认识。</p>\n<blockquote>\n<p>我是一个自己跟自己聊天，都能把自己聊 high 的人。</p>\n</blockquote>\n",
+				"content_text": "这几天我突然对自己有了进一步的认识。\n\n> 我是一个自己跟自己聊天，都能把自己聊 high 的人。\n\n",
 				"date_published": "2023-10-21T13:26:47+08:00",
 				"url": "https://micro.ohcoder.com/2023/10/21/high.html",
 				"tags": ["Whisper"]
@@ -19,7 +211,7 @@
 				"id": "http://ohcoder.micro.blog/2023/10/21/110816.html",
 				"title": "为什么关注「王者荣耀」赛事？",
 				"content_html": "<p>或许是因为日常生活的单调，大概四年前开始，在希望自己丰富一下业务生活的前提下，开始关注「王者荣耀」这款游戏的相关赛事。</p>\n<p>为什么选「王者荣耀」？</p>\n<p>其实选足球对我来说可能更顺理成章。老实说，中学期间，我是十足的球迷。但自从上了大学，就再也没有关注过。一方面球星断档太厉害，很多面孔都是陌生的。但更重要的可能是，新一代球星很难动摇老一辈球星在我心目中的地位，情感上很难割舍。</p>\n<p>其实篮球当时是我想关注的，甚至想过在业余时间学学打篮球。但不幸的是，恰好那段时间 NBA 跟政治话题搅到了一起，在国内停播了，而且开播时间看不到时间点。</p>\n<p>所以尝试关注了一下「王者荣耀」。而当时的 TS 战队（现改名北京 WB），在世界冠军杯总决赛上，上演了让三追四，一时被圈粉，至此进一步推动了我入圈。</p>\n<p>其实除此之外，还有一个小小的心思，「王者荣耀」是年轻人玩的游戏，我希望将自己置身于年轻人的圈子里，让自己跟年轻人保持一种羁绊。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "或许是因为日常生活的单调，大概四年前开始，在希望自己丰富一下业务生活的前提下，开始关注「王者荣耀」这款游戏的相关赛事。\n\n为什么选「王者荣耀」？\n\n其实选足球对我来说可能更顺理成章。老实说，中学期间，我是十足的球迷。但自从上了大学，就再也没有关注过。一方面球星断档太厉害，很多面孔都是陌生的。但更重要的可能是，新一代球星很难动摇老一辈球星在我心目中的地位，情感上很难割舍。\n\n其实篮球当时是我想关注的，甚至想过在业余时间学学打篮球。但不幸的是，恰好那段时间 NBA 跟政治话题搅到了一起，在国内停播了，而且开播时间看不到时间点。\n\n所以尝试关注了一下「王者荣耀」。而当时的 TS 战队（现改名北京 WB），在世界冠军杯总决赛上，上演了让三追四，一时被圈粉，至此进一步推动了我入圈。\n\n其实除此之外，还有一个小小的心思，「王者荣耀」是年轻人玩的游戏，我希望将自己置身于年轻人的圈子里，让自己跟年轻人保持一种羁绊。\n\n<img src=\"uploads/2023/538-mobileskin-1.jpg.webp\" width=\"600\" height=\"410\" alt=\"\">\n",
+				"content_text": "或许是因为日常生活的单调，大概四年前开始，在希望自己丰富一下业务生活的前提下，开始关注「王者荣耀」这款游戏的相关赛事。\n\n为什么选「王者荣耀」？\n\n其实选足球对我来说可能更顺理成章。老实说，中学期间，我是十足的球迷。但自从上了大学，就再也没有关注过。一方面球星断档太厉害，很多面孔都是陌生的。但更重要的可能是，新一代球星很难动摇老一辈球星在我心目中的地位，情感上很难割舍。\n\n其实篮球当时是我想关注的，甚至想过在业余时间学学打篮球。但不幸的是，恰好那段时间 NBA 跟政治话题搅到了一起，在国内停播了，而且开播时间看不到时间点。\n\n所以尝试关注了一下「王者荣耀」。而当时的 TS 战队（现改名北京 WB），在世界冠军杯总决赛上，上演了让三追四，一时被圈粉，至此进一步推动了我入圈。\n\n其实除此之外，还有一个小小的心思，「王者荣耀」是年轻人玩的游戏，我希望将自己置身于年轻人的圈子里，让自己跟年轻人保持一种羁绊。\n\n<img src=\"https://cdn.uploads.micro.blog/126178/2023/538-mobileskin-1.jpg.webp\" width=\"600\" height=\"410\" alt=\"\">\n",
 				"date_published": "2023-10-21T11:08:16+08:00",
 				"url": "https://micro.ohcoder.com/2023/10/21/110816.html",
 				"tags": ["Game"]
@@ -55,7 +247,7 @@
 				"id": "http://ohcoder.micro.blog/2023/10/20/091059.html",
 				
 				"content_html": "<p>不知道是不是有风的原因，今天早上出门明显感觉到一股寒流，突然感觉冬天来了。</p>\n<p>昨天早上出门还没有这种特别明显的感觉。</p>\n<p>这些天天气晴朗，天空湛蓝，没有云彩。从楼上窗户向外望去，可以清晰地看到西边的山。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "不知道是不是有风的原因，今天早上出门明显感觉到一股寒流，突然感觉冬天来了。\n\n昨天早上出门还没有这种特别明显的感觉。\n\n这些天天气晴朗，天空湛蓝，没有云彩。从楼上窗户向外望去，可以清晰地看到西边的山。\n\n<img src=\"uploads/2023/621e7a3114.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "不知道是不是有风的原因，今天早上出门明显感觉到一股寒流，突然感觉冬天来了。\n\n昨天早上出门还没有这种特别明显的感觉。\n\n这些天天气晴朗，天空湛蓝，没有云彩。从楼上窗户向外望去，可以清晰地看到西边的山。\n\n<img src=\"https://cdn.uploads.micro.blog/126178/2023/621e7a3114.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-10-20T09:10:59+08:00",
 				"url": "https://micro.ohcoder.com/2023/10/20/091059.html",
 				"tags": ["Diary","Whisper"]
